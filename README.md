@@ -25,7 +25,7 @@
 
 ## 📝 Usage Notes
 1. For technical questions, contact: **wangb@nim.ac.cn**
-2. If using this work in your research, please cite our paper:
+2. If this repo helps you, please consider citing our works:
    ```bibtex
    @article{PSTUN,
      title={Perceptive Spectral Transformer Unfolding Network with Multiscale Mixed Training for Arbitrary-scale Hyperspectral and Multispectral Image Fusion},
