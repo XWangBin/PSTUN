@@ -5,7 +5,8 @@
 
 ## 📢 NEWS
 | Date       | Update                                                                 |
-|------------|------------------------------------------------------------------------|
+|------------|------------------------------------------------------------------------------------------------------------------------|
+| 2025.04.14 | PSTUN has been integrated into the Hyperspectral Image Fusion Toolbox [ HIFTool ](https://github.com/Caoxuheng/HIFtool)          |
 | 2025.03.31 | Code released                                                          |
 | 2025.03.27 | Paper accepted by *Information Fusion*                                 |
 
@@ -28,7 +29,12 @@
 2. If this repo helps you, please consider citing our works:
    ```bibtex
    @article{PSTUN,
-     title={Perceptive Spectral Transformer Unfolding Network with Multiscale Mixed Training for Arbitrary-scale Hyperspectral and Multispectral Image Fusion},
-     journal={Information Fusion},
-     year={2025}
-   }
+    title={Perceptive Spectral Transformer Unfolding Network with Multiscale Mixed Training for Arbitrary-scale Hyperspectral and Multispectral Image Fusion},
+    journal={Information Fusion},
+    volume={122},
+    year={2025},
+    pages={103166},
+    issn={1566-2535},
+    doi={10.1016/j.inffus.2025.103166},
+    url={https://doi.org/10.1016/j.inffus.2025.103166}
+}
